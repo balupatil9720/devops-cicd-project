@@ -53,23 +53,18 @@ The project focuses on core DevOps practices such as CI automation, containeriza
 - **imagePullSecrets**  
   Allows Kubernetes to authenticate with a private AWS ECR registry.
 
----
+##  Screenshots
 
-## Repository Structure
-devops-cicd-project/
-├── app/
-│ ├── server.js
-│ └── package.json
-├── Dockerfile
-├── k8s/
-│ ├── deployment.yaml
-│ └── service.yaml
-├── scripts/
-│ ├── build.sh
-│ └── deploy.sh
-├── .github/workflows/
-│ └── cicd.yml
-└── README.md
+
+### CI Pipeline (GitHub Actions)
+![GitHub Actions](screenshots/github-actions-01.png)
+
+### Kubernetes Pods Running
+![Kubernetes Pods](screenshots/kubectl-pods-running.png)
+
+### Application Running
+![Application Output](screenshots/app-running.png)
+
 
 
 ## Key Learnings

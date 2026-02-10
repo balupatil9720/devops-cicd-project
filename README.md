@@ -58,13 +58,15 @@ The project focuses on core DevOps practices such as CI automation, containeriza
 
 
 ### CI Pipeline (GitHub Actions)
-![GitHub Actions](screenshots/github-actions-01.png) (screenshots/github-actions-02.png)
+![GitHub Actions - 1](screenshots/github-actions-01.png)
+![GitHub Actions - 2](screenshots/github-actions-02.png)
 
 ### Kubernetes Pods Running
 ![Kubernetes Pods](screenshots/kubectl-pods-running.png)
 
 ### Application Running
-![Application Output](screenshots/application-output-01.png) (screenshots/application-output-02.png)
+![Application Output](screenshots/application-output-02.png)
+
 
 
 

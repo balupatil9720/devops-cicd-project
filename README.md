@@ -8,6 +8,7 @@ The project focuses on core DevOps practices such as CI automation, containeriza
 ---
 
 ## Technologies Used
+- Node Application
 - Docker  
 - Kubernetes (Minikube)  
 - AWS EC2  
@@ -57,13 +58,13 @@ The project focuses on core DevOps practices such as CI automation, containeriza
 
 
 ### CI Pipeline (GitHub Actions)
-![GitHub Actions](screenshots/github-actions-01.png)
+![GitHub Actions](screenshots/github-actions-01.png) (screenshots/github-actions-02.png)
 
 ### Kubernetes Pods Running
 ![Kubernetes Pods](screenshots/kubectl-pods-running.png)
 
 ### Application Running
-![Application Output](screenshots/app-running.png)
+![Application Output](screenshots/application-output-01.png) (screenshots/application-output-02.png)
 
 
 

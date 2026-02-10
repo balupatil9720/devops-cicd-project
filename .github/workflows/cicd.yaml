@@ -22,7 +22,6 @@ jobs:
 
     - run: |
         chmod +x scripts/build.sh
-        chmod +x scripts/deploy.sh
         export ECR_URI=${{ secrets.ECR_URI }}
         ./scripts/build.sh
-        ./scripts/deploy.sh
+        
